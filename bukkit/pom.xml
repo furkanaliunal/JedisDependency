@@ -12,7 +12,7 @@
 
     <artifactId>jedisdependency.bukkit</artifactId>
     <packaging>jar</packaging>
-    <name>JedisDependencyBukkit</name>
+    <name>JedisDependency</name>
 
     <repositories>
         <repository>

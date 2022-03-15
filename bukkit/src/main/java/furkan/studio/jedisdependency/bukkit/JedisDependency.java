@@ -1,4 +1,4 @@
-package furkan.studio.bukkit;
+package furkan.studio.jedisdependency.bukkit;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
